@@ -1,0 +1,14 @@
+c:\Users\crobe\source\repos\StarCitizenPricingBot\bin\Debug\net8.0\StarCitizenPricingBot.exe
+C:\Users\crobe\source\repos\StarCitizenPricingBot\bin\Debug\net8.0\StarCitizenPricingBot.deps.json
+C:\Users\crobe\source\repos\StarCitizenPricingBot\bin\Debug\net8.0\StarCitizenPricingBot.runtimeconfig.json
+c:\Users\crobe\source\repos\StarCitizenPricingBot\bin\Debug\net8.0\StarCitizenPricingBot.dll
+c:\Users\crobe\source\repos\StarCitizenPricingBot\bin\Debug\net8.0\StarCitizenPricingBot.pdb
+c:\Users\crobe\source\repos\StarCitizenPricingBot\obj\Debug\net8.0\StarCitizenPricingBot.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\crobe\source\repos\StarCitizenPricingBot\obj\Debug\net8.0\StarCitizenPricingBot.AssemblyInfoInputs.cache
+c:\Users\crobe\source\repos\StarCitizenPricingBot\obj\Debug\net8.0\StarCitizenPricingBot.AssemblyInfo.cs
+c:\Users\crobe\source\repos\StarCitizenPricingBot\obj\Debug\net8.0\StarCitizenPricingBot.csproj.CoreCompileInputs.cache
+c:\Users\crobe\source\repos\StarCitizenPricingBot\obj\Debug\net8.0\StarCitizenPricingBot.dll
+c:\Users\crobe\source\repos\StarCitizenPricingBot\obj\Debug\net8.0\refint\StarCitizenPricingBot.dll
+c:\Users\crobe\source\repos\StarCitizenPricingBot\obj\Debug\net8.0\StarCitizenPricingBot.pdb
+C:\Users\crobe\source\repos\StarCitizenPricingBot\obj\Debug\net8.0\StarCitizenPricingBot.genruntimeconfig.cache
+C:\Users\crobe\source\repos\StarCitizenPricingBot\obj\Debug\net8.0\ref\StarCitizenPricingBot.dll
