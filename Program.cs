@@ -20,5 +20,6 @@ if( Validation.ValidateUexData( vehiclesResponse, vehiclePurchasePricesResponse,
     var test = "pause";
 }
 
-//TODO improve error handling at each step.
 //TODO write json to single ship page
+//TODO write to all ship pages
+//TODO convert to bot
